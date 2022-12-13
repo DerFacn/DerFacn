@@ -1,4 +1,4 @@
-# Beginner Junior Python Developer
+# Junior Python Developer
 * Django
 * Flask
 * pygame(fun)
