@@ -1,7 +1,5 @@
 # Junior Python Developer
 * Django
-* Flask
-* pygame(fun)
 
 ---
 
