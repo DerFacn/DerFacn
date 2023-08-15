@@ -1,12 +1,9 @@
 # Junior Python Developer
-* Django
+* Flask Framework
+* SQLAlchemy 2.1 DataBases
 
 ---
 
-[Main Project Now](https://github.com/DerFacn/pet-project/ "Click")
-
-[My Site(now mading)](https://derfacn.pythonanywhere.com "Click")
-
-[Random Materials(Python, History)](https://derfacn.github.io/ "Краще історію повчи е, не думаючи клікай")
-
-[Main Collaborator](https://github.com/themanwhocan/ "Click")
+## My contacts:
+* Telegram: <a href="https://t.me/derfacn" target="_blank">@derfacn</a>
+* Gmail: derfacn@gmail.com
