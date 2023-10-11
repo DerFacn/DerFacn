@@ -1,6 +1,6 @@
 # Junior Python Developer
 * Flask Framework
-* SQLAlchemy 2.1 DataBases
+* SQLAlchemy 2.0
 
 ---
 
